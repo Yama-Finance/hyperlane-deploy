@@ -1,1 +1,20 @@
-{}
+{
+  "polygonzkevm": {
+    "multisigIsm": "0x6e79aCd1da98d24ae98147ecEe78927179526d80",
+    "proxyAdmin": "0xef81A58b40489865200Ef6B7AD3D94a0c29aDA2a",
+    "mailbox": "0xDDd979557327455A497B314fbE879e82C63BA563",
+    "validatorAnnounce": "0x31EC336b4c0f04983c05bB9706E5271AA6842068",
+    "testRecipient": "0xE05da1D931Cf4741DFC843b7B9C62779827e0052",
+    "storageGasOracle": "0x8d856B6987527CdD9344bfcA31903219a332f059",
+    "interchainGasPaymaster": "0x9C54659D372d9424ef79A9C24d921AB4ee376045",
+    "defaultIsmInterchainGasPaymaster": "0xC844ACFB52b344B27A087e2CA11e1Be8df06D8C5"
+  },
+  "arbitrum": {
+    "multisigIsm": "0x7c120FD02e375E075d8de4192717873aD5D01c44",
+    "testRecipient": "0x8763219388e18F1AC605F4ea0B2477e2f534dc6B",
+    "proxyAdmin": "0xF6fc49D3a55D7067bDCB04467b5D2ffC2933EE09",
+    "storageGasOracle": "0xcad580F0153E3C5d66Bf05239a5586B21ab0206c",
+    "interchainGasPaymaster": "0x37bFaa6b258EDdb3966554677F625f5f4E7B9dfb",
+    "defaultIsmInterchainGasPaymaster": "0x26094FF368AA2D3cD2C24Fd3b8c0CD6B3bCDc87d"
+  }
+}
